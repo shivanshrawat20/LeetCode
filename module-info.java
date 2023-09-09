@@ -1,2 +1,0 @@
-module pascals_triangle {
-}
