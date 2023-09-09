@@ -1,0 +1,2 @@
+module pascals_triangle {
+}
